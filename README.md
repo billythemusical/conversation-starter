@@ -24,4 +24,5 @@ ADMIN_NUMBER='<your own mobile number>'
 TWILIO_NUMBER='<your working Twilio number>'
 PORT='3001'
 ```
-Then you can text the app at your Twilio number to begin!
+Then you can text the app at your Twilio number to begin!  You can say things like "Tell me more about police brutality" or "What do you know about infant mortality and race in the US?" or “I want to know about incarceration and race”
+
